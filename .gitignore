@@ -1,0 +1,7 @@
+android-project/.idea/
+android-project/.gradle/
+android-project/build/
+android-project/local.properties
+android-project/app/.cxx/
+android-project/app/build/
+android-project/app/src/main/jniLibs/

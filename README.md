@@ -1,0 +1,1 @@
+[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-opengl/android/loading-webp-textures-with-sdl3-image-opengl-android/)
